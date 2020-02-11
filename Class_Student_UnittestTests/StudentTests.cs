@@ -68,6 +68,6 @@ namespace Class_Student_Unittest.Tests
 
         }
 
-        //Du kan sut' den
+      
     }
 }

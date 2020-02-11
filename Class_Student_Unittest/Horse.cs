@@ -6,7 +6,7 @@ namespace Class_Student_Unittest
 {
     public class Horse
     {
-        public int legs;
+        public int Legs;
     }
 }
 

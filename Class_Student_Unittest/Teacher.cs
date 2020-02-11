@@ -19,8 +19,6 @@ namespace Class_Student_Unittest
                 _salary = value;
             }
         }
-
-
-
+        
     }
 }

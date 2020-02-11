@@ -7,7 +7,7 @@ namespace Class_Student_Unittest
     {
         private int _semester;
 
-        
+
         public int Semester
         {
             get => _semester;
@@ -18,6 +18,5 @@ namespace Class_Student_Unittest
             }
         }
 
- 
     }
 }

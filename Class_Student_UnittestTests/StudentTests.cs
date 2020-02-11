@@ -46,7 +46,6 @@ namespace Class_Student_Unittest.Tests
             Student s1 = new Student(); //Arrange
 
             s1.Semester = 0;
-
         }
 
         [TestMethod()]

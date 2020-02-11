@@ -67,5 +67,7 @@ namespace Class_Student_Unittest.Tests
             s1.Gender = Student.GenderType.Female; //act
 
         }
+
+        //Du kan sut' den
     }
 }
